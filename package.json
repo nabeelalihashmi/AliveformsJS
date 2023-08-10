@@ -1,0 +1,13 @@
+{
+    "name": "aliveformsjs",
+    "version": "1.0.0",
+    "description": "Embed Aliveforms forms using iframes",
+    "main": "aliveforms.min.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/your-username/your-repo.git"
+    },
+    "keywords": ["aliveforms", "javascript", "library"],
+    "license": "MIT"
+  }
+  
